@@ -120,7 +120,7 @@ img::-moz-selection {
 
 #mainNav {
   /*background-color: #212529;*/
-  background-color: #2cbb70;
+  background-color: #02112b;
 }
 
 #mainNav .navbar-toggler {
@@ -135,7 +135,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #ffffff;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -208,6 +208,8 @@ header.masthead .intro-text {
 header.masthead .intro-text .intro-lead-in {
   font-size: 22px;
   font-style: italic;
+  color: #02112b;
+  opacity: 0.3;
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -216,6 +218,7 @@ header.masthead .intro-text .intro-lead-in {
 header.masthead .intro-text .intro-heading {
   font-size: 50px;
   font-weight: 700;
+  color: #02112b;
   line-height: 50px;
   margin-bottom: 25px;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -604,7 +607,7 @@ header.masthead .intro-text .intro-heading {
   width: 225px;
   height: 225px;
   /* border: 7px solid #fff; */
-  border: 7px solid #d7f1dd;
+  border: 7px solid #e5e5e5;
 }
 
 .team-member h4 {
